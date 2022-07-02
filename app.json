@@ -1,0 +1,6 @@
+{
+  "name": "WebSocket",
+  "description": "Websocket server for heroku",
+  "repository": "https://github.com/0zBug/WebSocket",
+  "keywords": ["node", "websocket"]
+}
